@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tuan2_1_Bai6</string>
+    <string-array name="ds">
+        <item name="it1">Tèo</item>
+        <item name="it1">Tý</item>
+        <item name="it1">Tin</item>
+        <item name="it1">Bo</item>
+    </string-array>
+</resources>
